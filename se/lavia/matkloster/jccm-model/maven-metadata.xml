@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>se.lavia.matkloster</groupId>
+  <artifactId>jccm-model</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140520101620</lastUpdated>
+  </versioning>
+</metadata>
